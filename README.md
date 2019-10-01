@@ -1,15 +1,7 @@
 # LEARN PYTHON3 THE HARD WAY 
 
-<!--<div style="text-align:center"><img alt = "book_cover" src="https://images-na.ssl-images-amazon.com/images/I/516A35U3A6L._SX382_BO1,204,203,200_.jpg" /></div>-->
+![book_cover](https://images-na.ssl-images-amazon.com/images/I/516A35U3A6L._SX382_BO1,204,203,200_.jpg)
 
-![](https://images-na.ssl-images-amazon.com/images/I/516A35U3A6L._SX382_BO1,204,203,200_.jpg?style=centerme)
-
-<style>
-    img[src$="centerme"] {
-    display:block;
-    margin: 0 auto;
-}
-</style>
 
 ## Exercises
 1. [exercise 1](https://github.com/Dadajon/learn-python-the-hard-way/blob/master/exercises/ex01.ipynb)
@@ -18,3 +10,50 @@
 4. [exercise 4](https://github.com/Dadajon/learn-python-the-hard-way/blob/master/exercises/ex04.ipynb)
 5. [exercise 5](https://github.com/Dadajon/learn-python-the-hard-way/blob/master/exercises/ex05.ipynb)
 6. [exercise 6](https://github.com/Dadajon/learn-python-the-hard-way/blob/master/exercises/ex06.ipynb)
+7. [exercise 7](https://github.com/Dadajon/learn-python-the-hard-way/blob/master/exercises/ex07.ipynb)
+8. [exercise 8](https://github.com/Dadajon/learn-python-the-hard-way/blob/master/exercises/ex08.ipynb)
+9. [exercise 9](https://github.com/Dadajon/learn-python-the-hard-way/blob/master/exercises/ex09.ipynb)
+10. [exercise 10](https://github.com/Dadajon/learn-python-the-hard-way/blob/master/exercises/ex10.ipynb)
+11. [exercise 11](https://github.com/Dadajon/learn-python-the-hard-way/blob/master/exercises/ex11.ipynb)
+12. [exercise 12](https://github.com/Dadajon/learn-python-the-hard-way/blob/master/exercises/ex12.ipynb)
+13. [exercise 13](https://github.com/Dadajon/learn-python-the-hard-way/blob/master/exercises/ex13.py)
+14. [exercise 14](https://github.com/Dadajon/learn-python-the-hard-way/blob/master/exercises/ex14.py)
+15. [exercise 15](https://github.com/Dadajon/learn-python-the-hard-way/blob/master/exercises/ex15.py)
+16. [source file for ex15](https://github.com/Dadajon/learn-python-the-hard-way/blob/master/exercises/ex15_sample.txt)
+17. [exercise 16](https://github.com/Dadajon/learn-python-the-hard-way/blob/master/exercises/ex16.py)
+18. [exercise 17](https://github.com/Dadajon/learn-python-the-hard-way/blob/master/exercises/ex17.py)
+19. [exercise 18](https://github.com/Dadajon/learn-python-the-hard-way/blob/master/exercises/ex18.py)
+20. [exercise 19](https://github.com/Dadajon/learn-python-the-hard-way/blob/master/exercises/ex19.py)
+21. [exercise 20](https://github.com/Dadajon/learn-python-the-hard-way/blob/master/exercises/ex20.py)
+22. [exercise 21](https://github.com/Dadajon/learn-python-the-hard-way/blob/master/exercises/ex21.py)
+23. [exercise 22](https://github.com/Dadajon/learn-python-the-hard-way/blob/master/exercises/ex22.py)
+24. [exercise 23](https://github.com/Dadajon/learn-python-the-hard-way/blob/master/exercises/ex23.py)
+25. [exercise 24](https://github.com/Dadajon/learn-python-the-hard-way/blob/master/exercises/ex24.py)
+26. [exercise 25](https://github.com/Dadajon/learn-python-the-hard-way/blob/master/exercises/ex25.py)
+27. [exercise 26](https://github.com/Dadajon/learn-python-the-hard-way/blob/master/exercises/ex26.py)
+28. [source file for ex26](https://github.com/Dadajon/learn-python-the-hard-way/blob/master/exercises/ex26_text.txt)
+29. [exercise 27](https://github.com/Dadajon/learn-python-the-hard-way/blob/master/exercises/ex27.py)
+30. [exercise 28](https://github.com/Dadajon/learn-python-the-hard-way/blob/master/exercises/ex28.py)
+31. [exercise 29](https://github.com/Dadajon/learn-python-the-hard-way/blob/master/exercises/ex29.py)
+32. [exercise 30](https://github.com/Dadajon/learn-python-the-hard-way/blob/master/exercises/ex30.py)
+33. [exercise 31](https://github.com/Dadajon/learn-python-the-hard-way/blob/master/exercises/ex31.py)
+34. [exercise 32](https://github.com/Dadajon/learn-python-the-hard-way/blob/master/exercises/ex32.py)
+35. [exercise 33](https://github.com/Dadajon/learn-python-the-hard-way/blob/master/exercises/ex33.py)
+36. [exercise 34](https://github.com/Dadajon/learn-python-the-hard-way/blob/master/exercises/ex34.py)
+37. [exercise 35](https://github.com/Dadajon/learn-python-the-hard-way/blob/master/exercises/ex35.py)
+38. [exercise 36](https://github.com/Dadajon/learn-python-the-hard-way/blob/master/exercises/ex36.py)
+39. [exercise 37](https://github.com/Dadajon/learn-python-the-hard-way/blob/master/exercises/ex37.py)
+40. [exercise 38](https://github.com/Dadajon/learn-python-the-hard-way/blob/master/exercises/ex38.py)
+41. [exercise 39](https://github.com/Dadajon/learn-python-the-hard-way/blob/master/exercises/ex39.py)
+42. [exercise 40](https://github.com/Dadajon/learn-python-the-hard-way/blob/master/exercises/ex40.py)
+43. [exercise 41](https://github.com/Dadajon/learn-python-the-hard-way/blob/master/exercises/ex41.py)
+44. [exercise 42](https://github.com/Dadajon/learn-python-the-hard-way/blob/master/exercises/ex42.py)
+45. [exercise 43](https://github.com/Dadajon/learn-python-the-hard-way/blob/master/exercises/ex43.py)
+46. [exercise 44a](https://github.com/Dadajon/learn-python-the-hard-way/blob/master/exercises/ex44a.py)
+47. [exercise 44b](https://github.com/Dadajon/learn-python-the-hard-way/blob/master/exercises/ex44b.py)
+48. [exercise 44c](https://github.com/Dadajon/learn-python-the-hard-way/blob/master/exercises/ex44c.py)
+49. [exercise 44d](https://github.com/Dadajon/learn-python-the-hard-way/blob/master/exercises/ex44d.py)
+50. [exercise 44e](https://github.com/Dadajon/learn-python-the-hard-way/blob/master/exercises/ex44e.py)
+51. [languages](https://github.com/Dadajon/learn-python-the-hard-way/blob/master/exercises/languages.txt)
+52. [new_file](https://github.com/Dadajon/learn-python-the-hard-way/blob/master/exercises/new_file.txt)
+53. [test](https://github.com/Dadajon/learn-python-the-hard-way/blob/master/exercises/test.txt)
