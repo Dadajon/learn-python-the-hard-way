@@ -1,6 +1,12 @@
-# LEARN PYTHON3 THE HARD WAY 
+<img src="https://images-na.ssl-images-amazon.com/images/I/516A35U3A6L._SX382_BO1,204,203,200_.jpg" align="right" width="15%">
 
-![book_cover](https://images-na.ssl-images-amazon.com/images/I/516A35U3A6L._SX382_BO1,204,203,200_.jpg)
+# Learn Python 3 The Hard Way 
+
+> IDE
+
+![PyCharm](https://img.shields.io/badge/PyCharm-2019.2.3%20(Professional%20Edition)-brightgreen)
+![Python](https://img.shields.io/badge/Python-3.7.5-blue)
+
 
 
 ## Exercises
